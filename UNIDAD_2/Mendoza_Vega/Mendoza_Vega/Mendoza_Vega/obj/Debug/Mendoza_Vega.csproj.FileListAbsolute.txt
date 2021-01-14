@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\bin\Debug\Mendoza_Vega.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\bin\Debug\Mendoza_Vega.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\bin\Debug\Mendoza_Vega.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\obj\Debug\Mendoza_Vega.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\obj\Debug\Mendoza_Vega.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\obj\Debug\Mendoza_Vega.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Mendoza_Vega\Mendoza_Vega\obj\Debug\Mendoza_Vega.pdb

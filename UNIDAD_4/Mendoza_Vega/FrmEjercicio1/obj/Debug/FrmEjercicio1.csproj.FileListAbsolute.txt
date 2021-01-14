@@ -1,0 +1,20 @@
+C:\Buzon\Programa I\FrmEjercicio1\bin\Debug\FrmEjercicio1.exe.config
+C:\Buzon\Programa I\FrmEjercicio1\bin\Debug\FrmEjercicio1.exe
+C:\Buzon\Programa I\FrmEjercicio1\bin\Debug\FrmEjercicio1.pdb
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.csprojAssemblyReference.cache
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.Properties.Resources.resources
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.csproj.GenerateResource.cache
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.csproj.CoreCompileInputs.cache
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.exe
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.pdb
+C:\Buzon\Programa I\FrmEjercicio1\obj\Debug\FrmEjercicio1.Form1.resources
+C:\Users\mendo\Downloads\FrmEjercicio1\bin\Debug\FrmEjercicio1.exe.config
+C:\Users\mendo\Downloads\FrmEjercicio1\bin\Debug\FrmEjercicio1.exe
+C:\Users\mendo\Downloads\FrmEjercicio1\bin\Debug\FrmEjercicio1.pdb
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.csprojAssemblyReference.cache
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.Form1.resources
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.Properties.Resources.resources
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.csproj.GenerateResource.cache
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.exe
+C:\Users\mendo\Downloads\FrmEjercicio1\obj\Debug\FrmEjercicio1.pdb

@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\bin\Debug\PrEstudiantes.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\bin\Debug\PrEstudiantes.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\bin\Debug\PrEstudiantes.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\obj\Debug\PrEstudiantes.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\obj\Debug\PrEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\obj\Debug\PrEstudiantes.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiantes\PrEstudiantes\obj\Debug\PrEstudiantes.pdb

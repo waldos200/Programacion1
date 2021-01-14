@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\bin\Debug\Forma5.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\bin\Debug\Forma5.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\bin\Debug\Forma5.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\obj\Debug\Forma5.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\obj\Debug\Forma5.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\obj\Debug\Forma5.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma5\Forma5\obj\Debug\Forma5.pdb

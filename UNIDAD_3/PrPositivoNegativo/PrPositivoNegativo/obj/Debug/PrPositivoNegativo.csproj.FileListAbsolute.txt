@@ -1,0 +1,6 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\bin\Debug\PrPositivoNegativo.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\bin\Debug\PrPositivoNegativo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\bin\Debug\PrPositivoNegativo.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\obj\Debug\PrPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\obj\Debug\PrPositivoNegativo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrPositivoNegativo\PrPositivoNegativo\obj\Debug\PrPositivoNegativo.pdb

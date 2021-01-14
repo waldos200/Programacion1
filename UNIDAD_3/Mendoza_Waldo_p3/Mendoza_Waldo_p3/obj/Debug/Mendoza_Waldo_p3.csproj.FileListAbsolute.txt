@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\bin\Debug\Mendoza_Waldo_p3.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\bin\Debug\Mendoza_Waldo_p3.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\bin\Debug\Mendoza_Waldo_p3.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\obj\Debug\Mendoza_Waldo_p3.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\obj\Debug\Mendoza_Waldo_p3.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\obj\Debug\Mendoza_Waldo_p3.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Mendoza_Waldo_p3\Mendoza_Waldo_p3\obj\Debug\Mendoza_Waldo_p3.pdb

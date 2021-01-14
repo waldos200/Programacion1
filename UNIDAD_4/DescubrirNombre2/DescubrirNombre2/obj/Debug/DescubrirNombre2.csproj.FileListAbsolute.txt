@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\bin\Debug\DescubrirNombre2.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\bin\Debug\DescubrirNombre2.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\bin\Debug\DescubrirNombre2.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\obj\Debug\DescubrirNombre2.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\obj\Debug\DescubrirNombre2.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\obj\Debug\DescubrirNombre2.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\DescubrirNombre2\DescubrirNombre2\obj\Debug\DescubrirNombre2.pdb

@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Metodos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

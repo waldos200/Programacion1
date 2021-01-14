@@ -1,0 +1,7 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

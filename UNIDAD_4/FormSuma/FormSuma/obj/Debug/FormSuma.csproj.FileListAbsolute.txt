@@ -1,0 +1,10 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\bin\Debug\FormSuma.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\bin\Debug\FormSuma.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\bin\Debug\FormSuma.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FormSuma\FormSuma\obj\Debug\FormSuma.pdb

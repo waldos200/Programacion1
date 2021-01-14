@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Grupo#4_Constructores\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

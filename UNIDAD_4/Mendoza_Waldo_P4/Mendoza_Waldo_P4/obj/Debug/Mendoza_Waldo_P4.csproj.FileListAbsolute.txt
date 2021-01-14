@@ -1,0 +1,10 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\bin\Debug\Mendoza_Waldo_P4.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\bin\Debug\Mendoza_Waldo_P4.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\bin\Debug\Mendoza_Waldo_P4.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_Waldo_P4\Mendoza_Waldo_P4\obj\Debug\Mendoza_Waldo_P4.pdb

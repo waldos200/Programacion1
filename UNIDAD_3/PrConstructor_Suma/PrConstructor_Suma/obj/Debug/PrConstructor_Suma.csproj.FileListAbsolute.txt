@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\bin\Debug\PrConstructor_Suma.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\bin\Debug\PrConstructor_Suma.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\bin\Debug\PrConstructor_Suma.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\obj\Debug\PrConstructor_Suma.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\obj\Debug\PrConstructor_Suma.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\obj\Debug\PrConstructor_Suma.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Suma\PrConstructor_Suma\obj\Debug\PrConstructor_Suma.pdb

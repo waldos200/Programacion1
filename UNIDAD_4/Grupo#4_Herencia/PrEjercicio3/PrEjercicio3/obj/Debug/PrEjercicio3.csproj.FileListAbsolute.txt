@@ -1,0 +1,21 @@
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\bin\Debug\PrEjercicio3.exe.config
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\bin\Debug\PrEjercicio3.exe
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\bin\Debug\PrEjercicio3.pdb
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\obj\Debug\PrEjercicio3.csprojAssemblyReference.cache
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\obj\Debug\PrEjercicio3.csproj.CoreCompileInputs.cache
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\obj\Debug\PrEjercicio3.exe
+C:\Buzon\Programa I\Herencia y Constructores\PrEjercicio3\obj\Debug\PrEjercicio3.pdb
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.exe.config
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.exe
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.pdb
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.csprojAssemblyReference.cache
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.exe
+C:\Users\mendo\Downloads\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\bin\Debug\PrEjercicio3.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Grupo#4_Herencia\PrEjercicio3\PrEjercicio3\obj\Debug\PrEjercicio3.pdb

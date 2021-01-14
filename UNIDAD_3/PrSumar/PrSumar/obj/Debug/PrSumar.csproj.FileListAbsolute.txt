@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\bin\Debug\PrSumar.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\bin\Debug\PrSumar.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\bin\Debug\PrSumar.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\obj\Debug\PrSumar.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\obj\Debug\PrSumar.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\obj\Debug\PrSumar.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrSumar\PrSumar\obj\Debug\PrSumar.pdb

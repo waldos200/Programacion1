@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcultamientoDeNombre", "OcultamientoDeNombre\OcultamientoDeNombre.csproj", "{A83A82A6-3535-4CB4-A857-59F20699060E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83A82A6-3535-4CB4-A857-59F20699060E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83A82A6-3535-4CB4-A857-59F20699060E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83A82A6-3535-4CB4-A857-59F20699060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83A82A6-3535-4CB4-A857-59F20699060E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBE0EBA-D614-4846-8E9E-E441C5AFBE55}
+	EndGlobalSection
+EndGlobal

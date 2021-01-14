@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\bin\Debug\PrNumeroPar.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\bin\Debug\PrNumeroPar.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\bin\Debug\PrNumeroPar.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\obj\Debug\PrNumeroPar.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\obj\Debug\PrNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\obj\Debug\PrNumeroPar.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrNumeroPar\PrNumeroPar\obj\Debug\PrNumeroPar.pdb

@@ -1,0 +1,14 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\bin\Debug\PrMonedas.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrMonedas\PrMonedas\obj\Debug\PrMonedas.pdb

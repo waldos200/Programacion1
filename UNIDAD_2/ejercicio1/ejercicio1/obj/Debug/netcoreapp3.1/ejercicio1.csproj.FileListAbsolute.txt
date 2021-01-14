@@ -1,0 +1,12 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio1\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache

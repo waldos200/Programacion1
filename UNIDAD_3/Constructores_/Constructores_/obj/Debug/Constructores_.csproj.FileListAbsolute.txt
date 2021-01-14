@@ -1,0 +1,6 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\bin\Debug\Constructores_.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\bin\Debug\Constructores_.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\bin\Debug\Constructores_.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\obj\Debug\Constructores_.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\obj\Debug\Constructores_.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Constructores_\Constructores_\obj\Debug\Constructores_.pdb

@@ -1,0 +1,19 @@
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.exe.config
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.exe
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.pdb
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.csprojResolveAssemblyReference.cache
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.Form1.resources
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.Properties.Resources.resources
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.csproj.GenerateResource.Cache
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.exe
+C:\Users\Verónica Rosa\Desktop\Programas_Inter\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\bin\Debug\FrmBonificacion.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\FrmBonificacion\FrmBonificacion\obj\Debug\FrmBonificacion.pdb

@@ -1,0 +1,6 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\bin\Debug\Promedio_Estudiantes.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\bin\Debug\Promedio_Estudiantes.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\bin\Debug\Promedio_Estudiantes.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\obj\Debug\Promedio_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\obj\Debug\Promedio_Estudiantes.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\Promedio_Estudiantes\Promedio_Estudiantes\obj\Debug\Promedio_Estudiantes.pdb

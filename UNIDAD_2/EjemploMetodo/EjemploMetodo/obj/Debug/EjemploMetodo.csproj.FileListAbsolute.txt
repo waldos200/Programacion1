@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\bin\Debug\EjemploMetodo.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\EjemploMetodo\EjemploMetodo\obj\Debug\EjemploMetodo.pdb

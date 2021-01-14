@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\obj\Debug\PrTriangulo.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\obj\Debug\PrTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\bin\Debug\PrTriangulo.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\bin\Debug\PrTriangulo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\bin\Debug\PrTriangulo.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\obj\Debug\PrTriangulo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrTriangulo\PrTriangulo\obj\Debug\PrTriangulo.pdb

@@ -1,0 +1,10 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\bin\Debug\FrmEjercicio2.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\bin\Debug\FrmEjercicio2.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\bin\Debug\FrmEjercicio2.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Mendoza_\FrmEjercicio2\FrmEjercicio2\obj\Debug\FrmEjercicio2.pdb

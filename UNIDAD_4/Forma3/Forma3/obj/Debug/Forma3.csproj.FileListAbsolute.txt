@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\bin\Debug\Forma3.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\bin\Debug\Forma3.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\bin\Debug\Forma3.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\obj\Debug\Forma3.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\obj\Debug\Forma3.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\obj\Debug\Forma3.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Forma3\Forma3\obj\Debug\Forma3.pdb

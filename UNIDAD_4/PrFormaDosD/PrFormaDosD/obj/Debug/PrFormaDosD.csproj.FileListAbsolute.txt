@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\bin\Debug\PrFormaDosD.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\bin\Debug\PrFormaDosD.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\bin\Debug\PrFormaDosD.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\obj\Debug\PrFormaDosD.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\obj\Debug\PrFormaDosD.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\obj\Debug\PrFormaDosD.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\PrFormaDosD\PrFormaDosD\obj\Debug\PrFormaDosD.pdb

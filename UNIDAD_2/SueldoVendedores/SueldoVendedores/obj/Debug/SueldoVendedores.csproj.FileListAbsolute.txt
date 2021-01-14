@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\bin\Debug\SueldoVendedores.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\bin\Debug\SueldoVendedores.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\bin\Debug\SueldoVendedores.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\obj\Debug\SueldoVendedores.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\obj\Debug\SueldoVendedores.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\obj\Debug\SueldoVendedores.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\SueldoVendedores\SueldoVendedores\obj\Debug\SueldoVendedores.pdb

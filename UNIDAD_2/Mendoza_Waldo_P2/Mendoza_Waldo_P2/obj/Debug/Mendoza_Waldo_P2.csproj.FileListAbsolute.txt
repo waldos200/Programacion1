@@ -1,0 +1,7 @@
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\bin\Debug\Mendoza_Waldo_P2.exe.config
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\bin\Debug\Mendoza_Waldo_P2.exe
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\bin\Debug\Mendoza_Waldo_P2.pdb
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\obj\Debug\Mendoza_Waldo_P2.csprojAssemblyReference.cache
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\obj\Debug\Mendoza_Waldo_P2.csproj.CoreCompileInputs.cache
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\obj\Debug\Mendoza_Waldo_P2.exe
+C:\Users\mendo\source\repos\Mendoza_Waldo_P2\Mendoza_Waldo_P2\obj\Debug\Mendoza_Waldo_P2.pdb

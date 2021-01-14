@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\bin\Debug\PropiedadDemo.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\bin\Debug\PropiedadDemo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\bin\Debug\PropiedadDemo.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\obj\Debug\PropiedadDemo.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\obj\Debug\PropiedadDemo.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\obj\Debug\PropiedadDemo.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PropiedadDemo\PropiedadDemo\obj\Debug\PropiedadDemo.pdb

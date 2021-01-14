@@ -1,0 +1,10 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

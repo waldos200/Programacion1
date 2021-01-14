@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\bin\Debug\PrDatosPersonales.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\bin\Debug\PrDatosPersonales.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\bin\Debug\PrDatosPersonales.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\obj\Debug\PrDatosPersonales.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\obj\Debug\PrDatosPersonales.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\obj\Debug\PrDatosPersonales.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\PrDatosPersonales\PrDatosPersonales\obj\Debug\PrDatosPersonales.pdb

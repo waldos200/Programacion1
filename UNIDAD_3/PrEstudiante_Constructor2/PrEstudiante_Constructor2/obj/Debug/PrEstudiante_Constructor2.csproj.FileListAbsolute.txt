@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\bin\Debug\PrEstudiante_Constructor2.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\bin\Debug\PrEstudiante_Constructor2.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\bin\Debug\PrEstudiante_Constructor2.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\obj\Debug\PrEstudiante_Constructor2.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\obj\Debug\PrEstudiante_Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\obj\Debug\PrEstudiante_Constructor2.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrEstudiante_Constructor2\PrEstudiante_Constructor2\obj\Debug\PrEstudiante_Constructor2.pdb

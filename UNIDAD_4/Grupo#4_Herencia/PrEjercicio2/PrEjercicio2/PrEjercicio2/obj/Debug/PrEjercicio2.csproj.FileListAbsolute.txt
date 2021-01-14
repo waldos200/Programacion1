@@ -1,0 +1,7 @@
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\bin\Debug\PrEjercicio2.exe.config
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\bin\Debug\PrEjercicio2.exe
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\bin\Debug\PrEjercicio2.pdb
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\obj\Debug\PrEjercicio2.csprojAssemblyReference.cache
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\obj\Debug\PrEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\obj\Debug\PrEjercicio2.exe
+C:\Users\SHIROE\Desktop\PrEjercicio2\PrEjercicio2\obj\Debug\PrEjercicio2.pdb

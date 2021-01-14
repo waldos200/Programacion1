@@ -1,0 +1,6 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\bin\Debug\Rectangulo3.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\bin\Debug\Rectangulo3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\bin\Debug\Rectangulo3.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\obj\Debug\Rectangulo3.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\obj\Debug\Rectangulo3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\Rectangulo3\Rectangulo3\obj\Debug\Rectangulo3.pdb

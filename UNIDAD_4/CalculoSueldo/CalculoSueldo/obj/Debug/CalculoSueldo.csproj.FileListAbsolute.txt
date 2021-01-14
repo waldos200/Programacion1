@@ -1,0 +1,10 @@
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csprojAssemblyReference.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.Form1.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.Properties.Resources.resources
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.GenerateResource.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+F:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb

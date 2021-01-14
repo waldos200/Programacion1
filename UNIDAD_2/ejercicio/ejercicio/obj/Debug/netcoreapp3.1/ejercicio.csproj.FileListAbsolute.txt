@@ -1,0 +1,13 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.deps.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.dev.json
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfoInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfo.cs
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_2\ejercicio\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.genruntimeconfig.cache

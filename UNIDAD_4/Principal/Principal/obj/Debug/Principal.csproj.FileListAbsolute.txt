@@ -1,0 +1,7 @@
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\bin\Debug\Principal.exe.config
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\bin\Debug\Principal.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\bin\Debug\Principal.pdb
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\obj\Debug\Principal.exe
+E:\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_4\Principal\Principal\obj\Debug\Principal.pdb

@@ -1,0 +1,7 @@
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\bin\Debug\PrConstructor_Perro3.exe.config
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\bin\Debug\PrConstructor_Perro3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\bin\Debug\PrConstructor_Perro3.pdb
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\obj\Debug\PrConstructor_Perro3.csprojAssemblyReference.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\obj\Debug\PrConstructor_Perro3.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\obj\Debug\PrConstructor_Perro3.exe
+C:\Users\mendo\Documents\UTEC\Ciclo_03\PROGRAMACION_I\UNIDAD_3\PrConstructor_Perro3\PrConstructor_Perro3\obj\Debug\PrConstructor_Perro3.pdb
